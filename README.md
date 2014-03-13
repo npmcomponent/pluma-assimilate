@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pluma/assimilate](http://github.com/pluma/assimilate). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pluma-assimilate`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Synopsis
 
 **assimilate** adds the biological and technological distinctiveness of other objects to its own perfection.
